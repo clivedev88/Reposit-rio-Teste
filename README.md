@@ -11,3 +11,11 @@
 📫 Você pode entrar em contato comigo através do meu e-mail: [clive.dev88@gmail.com].
 ⚡ Curiosidade: Além da programação, sou um entusiasta de [Línguas], e estou sempre em busca de novas experiências e aventuras. Nos meus momentos de lazer, gosto de assistir animes, séries, e estou sempre disposto a discutir sobre eles. Além disso, também tenho experiência no ensino de Inglês e Francês, então se precisar de ajuda com esses idiomas, estou aqui para ajudar!
 
+
+---------------------------------
+## Minhas Estatísticas
+
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=clivedev88&show_icons=true)
+
+## Linguagens e Ferramentas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clivedev88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
